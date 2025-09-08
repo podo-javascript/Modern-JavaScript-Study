@@ -8,8 +8,8 @@
 | 주차    | 주제                                                                                                                                                                             |
 | ----- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2주차-1 | [2.10 : if와 '?'를 사용한 조건 처리](https://ko.javascript.info/ifelse) , [4.1 : 객체](https://ko.javascript.info/object) , [5.1 원시값의 메서드](https://ko.javascript.info/primitives-methods) |
-| 2주차-2 |                                                                                                                                                                                |
-| 3주차-1 |                                                                                                                                                                                |
+| 2주차-2 | [4.2 참조에 의한 객체 복사](https://ko.javascript.info/object-copy) , [4.4 옵셔널 체이닝](https://ko.javascript.info/optional-chaining)                                                       |
+| 3주차-1 | [5.5 배열과메서드](https://ko.javascript.info/array-methods)                                                                                                                         |
 | 3주차-2 |                                                                                                                                                                                |
 | 4주차-1 |                                                                                                                                                                                |
 | 4주차-2 |                                                                                                                                                                                |
