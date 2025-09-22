@@ -43,6 +43,6 @@ PR 제목 형식: 해당 주차 및 스터디순번  - 본인 이름
 
 - [Part2-1팀](./Part2-1팀%20/)
 
-- [Part2-9팀](./Part2-9팀%20/)
+- [Part2-9팀](https://github.com/podo-javascript/Modern-JavaScript-Study/tree/main/Part2-9%ED%8C%80)
  
 ... 
